@@ -1,5 +1,5 @@
-# SR-FLIPFLOP-USING-CASE
-
+# SR FLIPFLOP USING CASE
+### Exp. No: 06
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
